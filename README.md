@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working as a robotics software developer.
-- I have a blog: [ahnbk.com](https://ahnbk.com)
-- If you interest in ROS1, I have a tutoria page which made by me. ([Goto tutorial](https://www.notion.so/byeongkyu/ROS-ROS-Tutorial-af2c586e78dc418392b262eb2a2be8d6))
+- 💬 I have a blog: [ahnbk.com](https://ahnbk.com)
+- 😄 If you interest in ROS1, I have a tutoria page which made by me. ([Goto tutorial](https://www.notion.so/byeongkyu/ROS-ROS-Tutorial-af2c586e78dc418392b262eb2a2be8d6))
