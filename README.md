@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header]https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Byeong-Kyu%20Ahn&fontSize=64)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Byeong-Kyu%20Ahn&fontSize=64)
 
 
 - 🔭 I’m currently working as a robotics software developer.
